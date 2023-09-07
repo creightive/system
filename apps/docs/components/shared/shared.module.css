@@ -1,0 +1,30 @@
+.logo__wrapper {
+  display: flex;
+  align-items: center;
+  column-gap: 1rem;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  column-gap: 1rem;
+}
+
+.logomark {
+  height: 32px;
+  width: 32px;
+
+  #letter-c {
+    fill: white;
+  }
+  @media (prefers-color-scheme: dark) {
+    #letter-c {
+      fill: black;
+    }
+  }
+}
+
+.brandmark {
+  font-size: 1.125rem;
+  font-weight: 500;
+}
