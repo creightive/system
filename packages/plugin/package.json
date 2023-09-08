@@ -1,0 +1,13 @@
+{
+  "name": "@creightive/tailwindcss",
+  "description": "Tailwindcss plugin that implements creight's design language",
+  "version": "0.0.0",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo 'hello world'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creightive/system.git"
+  }
+}

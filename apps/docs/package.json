@@ -26,6 +26,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@creightive/tsconfig": "workspace:*",
     "@types/node": "18.11.10",
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
